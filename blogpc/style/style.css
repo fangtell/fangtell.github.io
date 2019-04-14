@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+.bj {
+	font-size: 18px;
+	font-weight: bold;
+	filter: point;
+	text-align: center;
+}
+.wei {
+	font-size: 14px;
+	text-align: center;
+}
+.right {
+	font-size: 12px;
+	padding-top: 9px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	font-weight: bold;
+	text-align: center;
+}
+.bj a {
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+}
+.bj a:hover {
+	color: #F00;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.table1 {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.b1 {
+	font-size: 24px;
+	font-weight: bolder;
+	text-align: center;
+	background-color: #609;
+	cursor: pointer;
+	color: #FFF;
+}
+.b2 {
+	font-size: 24px;
+	font-weight: bolder;
+	color: #FF0000;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+}
+.gy {
+	text-align: center;
+	font-size: 24px;
+}
+.gy1 {
+	text-align: center;
+}
+.right .table1 tr .b2 a {
+	color: #0F0;
+	text-decoration: none;
+}
+.right .table1 tr .b1 a {
+	color: #F00;
+	text-decoration: none;
+}
+.right .table1 tr .b1 .b1:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+.right .table1 tr .b2 a:hover {
+	color: #F00;
+	text-decoration: underline;
+}
+.right .table1 tr .b1 a:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+.right a {
+	color: #F00;
+	text-decoration: none;
+}
+.right a:hover {
+	color: #3F0;
+	text-decoration: underline;
+}
+.jzjz {
+	font-size: 36px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #000;
+	text-align: center;
+}
+.bj p {
+	text-align: center;
+
+}
+#Map {
+	text-align: right;
+}
+body p {
+	text-align: center;
+}
+body p {
+	text-align: center;
+}
