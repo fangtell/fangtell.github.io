@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bj {
+	background-image: url(../imags/timg.jpg);
+	background-repeat: no-repeat;
+}
+.z {
+	margin-bottom: auto;
+	margin-top: auto;
+	margin-right: 10px;
+}
+.vv {
+	background-color: #F00;
+}
+.s1 {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.vb {
+	text-align: center;
+	background-color: #FCF;
+}
+.vbnn {
+	background-color: #F9F;
+	text-align: center;
+	color: #F00;
+	text-decoration: none;
+}
+.vbnn tr td .vbnn strong:hover {
+	color: #000;
+	text-decoration: underline;
+}
+
+
+
+.vb {
+	text-align: center;
+	background-color: #FFF;
+}
+.s1 td .s1 {
+	color: #000;
+	text-decoration: none;
+	background-color: #FFF;
+}
+
+
+.nc strong {
+	color: #F00;
+	text-decoration: none;
+	background-color: #FFF;
+}
+
+.nc strong {
+	color: #F00;
+	text-decoration: none;
+	background-color: #FFF;
+	text-align: center;
+}
+.s1 td a {
+	color: #000;
+	text-decoration: none;
+}
+.s1 td a:hover {
+	color: #F00;
+	text-decoration: underline;
+	background-color: #F60;
+}
+.kuan {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+
+
+
+.mnmn {
+	text-align: center;
+}
+.rr tr td a {
+	font-size: 24px;
+	font-weight: bolder;
+	color: #F00;
+	text-decoration: none;
+	text-align: center;
+}
+.rr tr td a:hover {
+	color: #FFF;
+	text-decoration: underline;
+	background-color: #000;
+}
+.rrrrrrrr {
+	text-align: center;
+}
+.vbnn tr td a {
+	color: #FF0;
+	text-decoration: none;
+	font-weight: bold;
+}
+.xcfb {
+	text-align: center;
+
+}
+.xcv {
+	text-align: center;
+}
