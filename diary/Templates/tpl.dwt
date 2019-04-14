@@ -10,7 +10,7 @@
 <link href="../style/style.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .TITLE1 {
-	font-size: 24px;
+	font-size: 36px;
 	font-weight: bold;
 }
 .wei {
@@ -26,26 +26,26 @@
 </head>
 
 <body>
-<table width="100%" height="1041" border="0" cellpadding="0">
+<table width="100%" height="1333" border="0" cellpadding="0">
   <tr>
-    <td align="center" valign="top"><table width="101%" height="781" border="0" align="center" cellpadding="0">
+    <td height="1329" align="center" valign="top"><table width="101%" height="1288" border="0" align="center" cellpadding="0">
       <tr>
         <td width="100%" height="78" align="center" valign="middle"><p class="TITLE1">新哥NOTES</p>
           <p>&nbsp;</p></td>
         </tr>
       <tr>
-        <td height="690"><table width="447" height="942" border="0" align="center" cellpadding="0">
+        <td height="1204"><table width="1000" height="1714" border="0" align="center" cellpadding="0">
           <!-- TemplateBeginEditable name="wz" -->
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td height="1180" colspan="2">&nbsp;</td>
           </tr>
           <tr>
-            <td height="37" align="center" valign="middle">&nbsp;</td>
-            <td align="center" valign="middle">&nbsp;</td>
+            <td width="124" height="34" align="center" valign="middle">&nbsp;</td>
+            <td width="870" align="center" valign="middle">&nbsp;</td>
           </tr>
           <!-- TemplateEndEditable -->
           <tr>
-            <td height="357" colspan="2"><p class="wei">&nbsp;</p>
+            <td height="492" colspan="2"><p class="wei">&nbsp;</p>
               <p class="wei"><img src="../images/code.jpg" width="116" height="119" /></p>
               <p class="wei">更多好文章</p>
               <p class="wei">关注微信公众号（我在你说tell id:fondreading）</p>
