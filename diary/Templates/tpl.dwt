@@ -10,14 +10,14 @@
 <link href="../style/style.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 .TITLE1 {
-	font-size: 36px;
+	font-size: 55px;
 	font-weight: bold;
 }
 .wei {
-	font-size: 12px;
+	font-size: 24px;
 }
 .wei {
-	font-size: 10px;
+	font-size: 24px;
 }
 .wei {
 	text-align: center;
@@ -46,7 +46,7 @@
           <!-- TemplateEndEditable -->
           <tr>
             <td height="492" colspan="2"><p class="wei">&nbsp;</p>
-              <p class="wei"><img src="../images/code.jpg" width="116" height="119" /></p>
+              <p class="wei"><img src="../images/code.jpg" width="278" height="254" /></p>
               <p class="wei">更多好文章</p>
               <p class="wei">关注微信公众号（我在你说tell id:fondreading）</p>
               <hr class="hx" />
