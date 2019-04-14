@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hx {
+	color: #090;
+}
+.zw {
+	font-size: 12px;
+}
+.zw p a {
+	color: #000;
+	text-decoration: underline;
+}
+.zw p a:hover {
+	color: #F00;
+	text-decoration: blink;
+}
